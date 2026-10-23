@@ -15,12 +15,12 @@
 <img src="h_about.svg" width="100%" alt="About"/>
 
 - Final-year B.Tech Computer Science (AI/ML) student at **VIT Bhopal**, graduating 2027
-- Research focus: **multimodal deep learning for neurological disease detection**, explainable AI, and sports analytics
+- Research focus: **multimodal deep learning architectures**, explainable AI, and sports analytics
 - **Research Intern**, CHTR, RV College of Engineering (Jun - Aug 2026): deep learning for early detection of dementia and Alzheimer's disease
-- **AI Engineer Intern**, Viswam AI (Jun - Jul 2025): curated training data for the first LLM built from the ground up for Telugu
+- **AI Engineer Intern**, Viswam AI (Jun - Jul 2025): curated training data for the first Telugu LLM built from the ground up.
 - Published at **IEEE, Springer and Elsevier** venues (see Research below)
-- From Visakhapatnam, India, studying in Bhopal
-- Open to research collaborations, internships, and conversations about healthcare AI, LLMs and computer vision
+- From Visakhapatnam, India.
+- Open to research collaborations.
 
 <img src="divider.svg" width="100%" alt=""/>
 
