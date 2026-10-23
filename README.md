@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1100&color=FF4D5A&center=true&vCenter=true&width=760&height=38&lines=Deep+learning+for+early+dementia+detection;Multimodal+models+for+healthcare+and+bioinformatics;Telemetry%2C+strategy+and+lap-level+ML+for+Formula+1;Published+at+IEEE%2C+Springer+and+Elsevier)](https://github.com/Shashank7490)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1100&color=FF4D5A&center=true&vCenter=true&width=760&height=38&lines=Deep+learning+architectures;Telemetry%2C+strategy+and+lap-level+ML+for+Formula+1;Published+at+IEEE%2C+Springer+and+Elsevier)](https://github.com/Shashank7490)
 
 [![Email](https://img.shields.io/badge/Email-14161c?style=flat-square&logo=gmail&logoColor=ff4d5a)](mailto:kommanaboyinashashank@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-14161c?style=flat-square&logo=linkedin&logoColor=ff4d5a)](https://www.linkedin.com/in/shashank-kommanaboyina/)
