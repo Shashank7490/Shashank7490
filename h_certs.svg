@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="46" viewBox="0 0 830 46" role="img" aria-label="CERTIFICATIONS">
+<defs><linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff4d5a"/><stop offset="0.35" stop-color="#ff8a2b" stop-opacity="0.6"/><stop offset="1" stop-color="#ff8a2b" stop-opacity="0"/></linearGradient>
+<filter id="g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="0" y="13" width="3" height="20" fill="#ff4d5a" filter="url(#g)"/>
+<text x="14" y="29" font-family="Consolas,Menlo,monospace" font-size="13" fill="#ff4d5a" letter-spacing="2">06</text>
+<text x="46" y="29" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4" fill="#e8ecf5">CERTIFICATIONS</text>
+<rect x="300" y="22" width="530" height="1.5" fill="url(#l)"/>
+</svg>
