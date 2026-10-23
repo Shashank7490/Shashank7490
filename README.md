@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Shashank Kommanaboyina" width="100%"/>
+<img src="banner.svg" alt="Shashank Kommanaboyina" width="100%"/>
 
 <div align="center">
 
@@ -10,21 +10,21 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
-<img src="assets/h_about.svg" width="100%" alt="About"/>
+<img src="h_about.svg" width="100%" alt="About"/>
 
-- ▸ Final-year B.Tech Computer Science (AI/ML) student at **VIT Bhopal**, graduating 2027
-- ▸ Research focus: **multimodal deep learning for neurological disease detection**, explainable AI, and sports analytics
-- ▸ **Research Intern**, CHTR, RV College of Engineering (Jun - Aug 2026): deep learning for early detection of dementia and Alzheimer's disease
-- ▸ **AI Engineer Intern**, Viswam AI (Jun - Jul 2025): curated training data for the first LLM built from the ground up for Telugu
-- ▸ Published at **IEEE, Springer and Elsevier** venues (see Research below)
-- ▸ From Visakhapatnam, India, studying in Bhopal
-- ▸ Open to research collaborations, internships, and conversations about healthcare AI, LLMs and computer vision
+- Final-year B.Tech Computer Science (AI/ML) student at **VIT Bhopal**, graduating 2027
+- Research focus: **multimodal deep learning for neurological disease detection**, explainable AI, and sports analytics
+- **Research Intern**, CHTR, RV College of Engineering (Jun - Aug 2026): deep learning for early detection of dementia and Alzheimer's disease
+- **AI Engineer Intern**, Viswam AI (Jun - Jul 2025): curated training data for the first LLM built from the ground up for Telugu
+- Published at **IEEE, Springer and Elsevier** venues (see Research below)
+- From Visakhapatnam, India, studying in Bhopal
+- Open to research collaborations, internships, and conversations about healthcare AI, LLMs and computer vision
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
-<img src="assets/h_stack.svg" width="100%" alt="Tech Stack"/>
+<img src="h_stack.svg" width="100%" alt="Tech Stack"/>
 
 **Core**<br>
 ![Python](https://img.shields.io/badge/Python-14161c?style=flat-square&logo=python&logoColor=ff4d5a)
@@ -51,9 +51,9 @@
 **Cloud**<br>
 ![AWS](https://img.shields.io/badge/AWS-14161c?style=flat-square&logoColor=ff4d5a)
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
-<img src="assets/h_projects.svg" width="100%" alt="Featured Projects"/>
+<img src="h_projects.svg" width="100%" alt="Featured Projects"/>
 
 | Project | Stack | What it does |
 |:--|:--|:--|
@@ -63,9 +63,9 @@
 | **Farm Smart** | Python, Machine Learning | Low-connectivity precision agriculture platform for crop recommendation, soil-test interpretation and yield optimization. **8 languages, ~95% accuracy** |
 | **Multi-Drone Forest Surveillance** | YOLOv8, Flask, Computer Vision | End-to-end monitoring system with live detection, alerts and reporting. **94% detection accuracy** |
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
-<img src="assets/h_research.svg" width="100%" alt="Research"/>
+<img src="h_research.svg" width="100%" alt="Research"/>
 
 | Paper | Venue | Role |
 |:--|:--|:--|
@@ -74,9 +74,9 @@
 | **Deep Learning for Protein Structure Prediction: The Case of AlphaFold** | Elsevier, invited book chapter (in press) | First author |
 | **Revolutionizing Genomics and Structural Bioinformatics: AI and Machine Learning Advances** | Elsevier, invited book chapter (in press) | Co-author |
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
-<img src="assets/h_stats.svg" width="100%" alt="Stats"/>
+<img src="h_stats.svg" width="100%" alt="Stats"/>
 
 <div align="center">
 
@@ -85,23 +85,22 @@
 
 <img src="https://streak-stats.demolab.com/?user=Shashank7490&background=0d1117&ring=ff4d5a&fire=ff8a2b&currStreakNum=e8ecf5&currStreakLabel=ff4d5a&sideNums=e8ecf5&sideLabels=8b93a7&dates=6b7385&stroke=2a2f3a&border=2a2f3a" alt="Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank7490&bg_color=0d1117&color=8b93a7&line=ff4d5a&point=e8ecf5&area=true&area_color=ff4d5a&hide_border=true&radius=6" alt="Activity graph" width="100%"/>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
-<img src="assets/h_certs.svg" width="100%" alt="Certifications"/>
+<img src="h_certs.svg" width="100%" alt="Certifications"/>
 
-- ▸ Introduction to Internet of Things, NPTEL (Apr 2026)
-- ▸ Google IT Support Professional Certificate, Google / Coursera (Feb 2026)
-- ▸ AWS Cloud Practitioner Essentials, Amazon Web Services (Sep 2025)
-- ▸ Applied Machine Learning, Coursera (Dec 2024)
-- ▸ Cloud Computing, NPTEL (Apr 2024)
+- Introduction to Internet of Things, NPTEL (Apr 2026)
+- Google IT Support Professional Certificate, Google / Coursera (Feb 2026)
+- AWS Cloud Practitioner Essentials, Amazon Web Services (Sep 2025)
+- Applied Machine Learning, Coursera (Dec 2024)
+- Cloud Computing, NPTEL (Apr 2024)
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
-<img src="assets/h_connect.svg" width="100%" alt="Connect"/>
+<img src="h_connect.svg" width="100%" alt="Connect"/>
 
 <div align="center">
 
@@ -110,4 +109,4 @@
 
 </div>
 
-<img src="assets/footer.svg" width="100%" alt=""/>
+<img src="footer.svg" width="100%" alt=""/>
